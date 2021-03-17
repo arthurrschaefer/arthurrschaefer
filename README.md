@@ -33,7 +33,7 @@ I'm an IT entrepreneur, Tech, Education and Service Management Evangelist, Youtu
 - 🎥 [YouTube](https://youtube.com/ArthurSchaefer) - Well... Here "The Magic happens"
 - 🔭 I’m currently working on getting a better IT leader and find new products and solutions to clients and companies.
 - 🌱 I’m currently learning new ways to deliver and improve Service Management.
-- 📫 How to reach me? Into my [contact form](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) powered by [GLPI](https://github.com/arthurrschaefer/glpi)
+- 📫 How to reach me? Into my [contact form](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) powered by [GLPI](https://github.com/arthurrschaefer/glpi-communidade)
 
 
 ![ArthurSchaefer Status no Github](https://github-readme-stats.vercel.app/api?username=arthurrschaefer&show_icons=true&theme=radical)
