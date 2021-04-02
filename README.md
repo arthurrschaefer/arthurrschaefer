@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurrschaefer)](https://www.linkedin.com/in/arthurrschaefer)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arthurrschaefer)](https://twitter.com/arthurrschaefer)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/ArthurSchaefer)](https://www.youtube.com/ArthurSchaefer)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40arthurrschaefer-0088CC)](https://t.me/arthurrschaefer)
 
 ### Sobre mim
 Sou empresário e profissional de TI, Evangelista de tecnologia, educação, gestão de serviços e idiomas. Crio conteúdo no YouTube, blog e comunidades, sou também professor e instrutor nas áreas de Tecnologia e Idiomas em [@arthurrschaefer](https://www.arthurschaefer.com.br), [@servicedeskbrasil](https://www.servicedeskbrasil.com.br/), [@bavierati](https://www.bavierati.com.br).
