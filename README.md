@@ -9,11 +9,11 @@
 ### Sobre mim
 Sou empresário e profissional de TI, Evangelista de tecnologia, educação, gestão de serviços e idiomas. Crio conteúdo no YouTube, blog e comunidades, sou também professor e instrutor nas áreas de Tecnologia e Idiomas em [@arthurrschaefer](https://www.arthurschaefer.com.br), [@servicedeskbrasil](https://www.servicedeskbrasil.com.br/), [@bavierati](https://www.bavierati.com.br).
 
-- 📘💼 [Cursos da Servicedesk Brasil](https://servicedeskbrasil.maestrus.com/treinamentos) - Aqui você encontra os treinamentos que temos disponíveis na **Servicedesk Brasil**
+- 📘💼 [Cursos da Servicedesk Brasil](https://treinamento.glpiavancado.servicedeskbrasil.com.br) - Aqui você encontra os treinamentos que temos disponíveis na **Servicedesk Brasil**
 -  👨🏾‍🏫 [Meus treinamentos](https://www.arthurschaefer.com.br/cursos-e-treinamentos/) - Aqui você encontra os meus treinamentos disponíveis no **meu Blog - Arthur Schaefer**
 - ✍🏼 [Blog](https://www.arthurschaefer.com.br) - Aqui é onde escrevo minha opiniões, coloco os vídeos à disposição e escrevo alguns artigos técnicos ou nem tanto.
 - 🎥 [YouTube](https://youtube.com/ArthurSchaefer) - É aqui que a "mágica acontece"
-- 📫 Quer saber como me contatar? Entre no [formulário de contato aqui](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) feito no [GLPI](https://github.com/arthurrschaefer/glpi) e manda bala!
+<!--- 📫 Quer saber como me contatar? Entre no [formulário de contato aqui](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) feito no [GLPI](https://github.com/arthurrschaefer/glpi) e manda bala!
 
 
 ----
@@ -21,7 +21,7 @@ Sou empresário e profissional de TI, Evangelista de tecnologia, educação, ges
 ### About me
 I'm an IT entrepreneur, tech, education and, languages and service management Evangelist. I make videos at YouTube, create content on my blog and communities, and I'm also teacher and instructor at [@arthurrschaefer](https://www.arthurschaefer.com.br), [@servicedeskbrasil](https://www.servicedeskbrasil.com.br/), [@bavierati](https://www.bavierati.com.br).
 
-- 📘💼 [Servicedesk Brasil Courses](https://servicedeskbrasil.maestrus.com/treinamentos) - Here are the Servicdesk Brasil courses.
+- 📘💼 [Servicedesk Brasil Courses](https://treinamento.glpiavancado.servicedeskbrasil.com.br) - Here are the Servicdesk Brasil courses.
 -  👨🏾‍🏫 [My Personal Trainings](https://www.arthurschaefer.com.br/cursos-e-treinamentos/) - Here are my personal trainings.
 - ✍🏼 [Blog](https://www.arthurschaefer.com.br) - Here I write about many things, post some of my videos and opinions.
 - 🎥 [YouTube](https://youtube.com/ArthurSchaefer) - Well... Here it's where "The Magic happens"
