@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40arthurrschaefer-0088CC)](https://t.me/arthurrschaefer)
 
 ### Sobre mim
-Sou empresário e profissional de TI, Evangelista de tecnologia, educação, gestão de serviços e idiomas. Crio conteúdo no YouTube, blog e comunidades, sou também professor e instrutor nas áreas de Tecnologia e Idiomas em [@arthurrschaefer](https://www.arthurschaefer.com.br), [@servicedeskbrasil](https://www.servicedeskbrasil.com.br/), [@bavierati](https://www.bavierati.com.br).
+Sou profissional de TI e Evangelista de tecnologia, educação, gestão de serviços e idiomas. Crio conteúdo no YouTube, blog e comunidades [@arthurrschaefer](https://www.arthurschaefer.com.br).
 
 - ✍🏼 [Blog](https://www.arthurschaefer.com.br) - Aqui é onde escrevo minha opiniões, coloco os vídeos à disposição e escrevo alguns artigos técnicos ou nem tanto.
 - 🎥 [YouTube](https://youtube.com/ArthurSchaefer) - É aqui que a "mágica acontece"
@@ -16,7 +16,7 @@ Sou empresário e profissional de TI, Evangelista de tecnologia, educação, ges
 ----
 
 ### About me
-I'm an IT entrepreneur, tech, education and, languages and service management Evangelist. I make videos at YouTube, create content on my blog and communities, and I'm also teacher and instructor at [@arthurrschaefer](https://www.arthurschaefer.com.br), [@servicedeskbrasil](https://www.servicedeskbrasil.com.br/), [@bavierati](https://www.bavierati.com.br).
+I'm an IT professional and education, languages and service management Evangelist. I make videos on YouTube, create content on my blog and communities [@arthurrschaefer](https://www.arthurschaefer.com.br).
 
 - ✍🏼 [Blog](https://www.arthurschaefer.com.br) - Here I write about many things, post some of my videos and opinions.
 - 🎥 [YouTube](https://youtube.com/ArthurSchaefer) - Well... Here it's where "The Magic happens"
