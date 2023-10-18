@@ -1,4 +1,4 @@
-# Olá, Sou Arthur Schaefer! 👨🏾‍💻
+# Olá, Sou Arthur Schaefer. Redator técnico do GLPI atuando na Teclib' / Hello, I'm Arthur Schaefer. GLPI Tech Writer at Teclib' 👨🏾‍💻 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arthurrschaefer)](https://github.com/arthurrschaefer)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurrschaefer)](https://www.linkedin.com/in/arthurrschaefer)
