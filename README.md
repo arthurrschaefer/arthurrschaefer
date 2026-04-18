@@ -31,9 +31,7 @@
 
 Sou um profissional de TI baseado em **Igrejinha, RS — Brasil**, especializado em gestão de serviços (ITSM/ESM) e software de código aberto. Atuo como **Tech Writer na Teclib'**, empresa responsável pelo GLPI.
 
-Crio conteúdo técnico em três idiomas — vídeos no YouTube, artigos no blog e materiais para comunidades de IT ao redor do mundo.
-
-> *"Tecnologia só faz sentido quando qualquer pessoa consegue usá-la."*
+Crio conteúdo técnico em três idiomas — vídeos no YouTube, artigos no blog e materiais para comunidades de TI ao redor do mundo.
 
 </td>
 <td width="50%" valign="top">
@@ -44,31 +42,11 @@ I'm an IT professional based in **Igrejinha, RS — Brazil**, specialized in ser
 
 I create technical content in three languages — YouTube videos, blog articles, and materials for IT communities around the world.
 
-> *"Technology only makes sense when anyone can use it."*
-
 </td>
 </tr>
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurrschaefer&show_icons=true&count_private=true&bg_color=F4F0E8&title_color=1A3A5C&text_color=0D1F2D&icon_color=2D7DD2&border_color=1A3A5C&border_radius=8&hide_border=false" width="48%" alt="Arthur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrschaefer&layout=compact&bg_color=F4F0E8&title_color=1A3A5C&text_color=0D1F2D&border_color=1A3A5C&border_radius=8&langs_count=6" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arthurrschaefer&background=F4F0E8&border=1A3A5C&stroke=1A3A5C&ring=E8552A&fire=E8552A&currStreakNum=0D1F2D&sideNums=0D1F2D&currStreakLabel=1A3A5C&sideLabels=1A3A5C&dates=8B8378&border_radius=8&date_format=d%20M%5B%20Y%5D" width="70%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurrschaefer&bg_color=F4F0E8&color=1A3A5C&line=2D7DD2&point=E8552A&area=true&area_color=2D7DD2&hide_border=false&border_color=1A3A5C&radius=8" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## 📺 Conteúdo · Content
 
 <table>
@@ -103,8 +81,6 @@ I create technical content in three languages — YouTube videos, blog articles,
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
